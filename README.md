@@ -14,5 +14,7 @@
 使用hexo搭建
 主题：next
 
-
+# 配图
+![配图1](/images/test1.jpg)
+![配图2](/images/test2.jpg)
 ------
