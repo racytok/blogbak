@@ -15,6 +15,6 @@
 主题：next
 
 # 配图
-![配图1](https://raw.githubusercontent.com/racytok/blogbak/master/images/test1.jpg)
+![配图1](https://raw.githubusercontent.com/racytok/blogbak/master/images/test1.jpg =200)
 ![配图2](https://raw.githubusercontent.com/racytok/blogbak/master/images/test2.jpg)
 ------
