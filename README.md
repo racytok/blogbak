@@ -15,7 +15,7 @@
 主题：next
 
 # 配图
- <img src="https://raw.githubusercontent.com/racytok/blogbak/master/images/test1.jpg" width = "300" height = "200" alt="图片名称" align=center />
+ <img src="https://raw.githubusercontent.com/racytok/blogbak/master/images/test1.jpg" width = "100%"  alt="图片名称" align=center />
 ![配图1](https://raw.githubusercontent.com/racytok/blogbak/master/images/test1.jpg)
 ![配图2](https://raw.githubusercontent.com/racytok/blogbak/master/images/test2.jpg)
 ------
